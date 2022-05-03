@@ -5,8 +5,8 @@
 <h1 class="code-line" data-line-start=3 data-line-end=4 ><a id="Skills_3"></a>Skills</h1>
 <blockquote>
 <p class="has-line-data" data-line-start="4" data-line-end="7">Tech Stack: C/C++/iocp/MySQL/Unity<br>
-Tools: Git/Notion<br>
-Interest: Unreal/Rust</p>
+Tools: VisualStudio/Git/Notion/MSOffice<br>
+Interest: Unreal</p>
 </blockquote>
 <h1 class="code-line" data-line-start=8 data-line-end=9 ><a id="Github_Stats_8"></a>Github Stats</h1>
 <blockquote>
