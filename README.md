@@ -4,7 +4,7 @@
 </blockquote>
 <h1 class="code-line" data-line-start=3 data-line-end=4 ><a id="Skills_3"></a>Skills</h1>
 <blockquote>
-<p class="has-line-data" data-line-start="4" data-line-end="7">Tech Stack: C/C++/iocp/MySQL/Unity<br>
+<p class="has-line-data" data-line-start="4" data-line-end="7">Tech Stack: C/C++/iocp/Unity<br>
 Tools: VisualStudio/Git/Notion/MSOffice<br>
 Interest: Unreal</p>
 </blockquote>
