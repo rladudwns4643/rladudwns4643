@@ -1,10 +1,10 @@
 ## Hi there 👋, my name is YoungJune
-> _korea polytechnic university game engineering student_
+> _tukorea university game engineering student_
 
 ## Skills
-> Tech Stack: C/C++/iocp/Unity  
-> Tools: VisualStudio/Git/Notion/MSOffice  
-> Interest: Unreal/(CICD)
+> Tech Stack: C/C++/iocp  
+> Tools: VisualStudio/Git/Notion  
+> Interest: CICD
 
 ## Github Stats
 > ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rladudwns4643&show_icons=true)
