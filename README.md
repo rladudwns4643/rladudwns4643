@@ -4,7 +4,7 @@
 ## Skills
 > Tech Stack: C/C++/iocp  
 > Tools: VisualStudio/Git/Notion  
-> Interest: CICD
+> Interest: CICD/JIRA
 
 ## Github Stats
 > ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rladudwns4643&show_icons=true)
